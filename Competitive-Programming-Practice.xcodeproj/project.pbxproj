@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D03EFB3925EF226400FDEF93 /* Competitive-Programming-Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Competitive-Programming-Practice"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D03EFB3C25EF226400FDEF93 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D03EFB3C25EF226400FDEF93 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "1. Segment Tree/main.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		D03EFB3025EF226400FDEF93 = {
 			isa = PBXGroup;
 			children = (
-				D03EFB3B25EF226400FDEF93 /* Competitive-Programming-Practice */,
+				D03EFB3B25EF226400FDEF93 /* 1. Segment Tree */,
 				D03EFB3A25EF226400FDEF93 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D03EFB3B25EF226400FDEF93 /* Competitive-Programming-Practice */ = {
+		D03EFB3B25EF226400FDEF93 /* 1. Segment Tree */ = {
 			isa = PBXGroup;
 			children = (
 				D03EFB3C25EF226400FDEF93 /* main.cpp */,
 			);
-			path = "Competitive-Programming-Practice";
+			name = "1. Segment Tree";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
